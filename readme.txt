@@ -1,1 +1,2 @@
-hi, it, is in vi insert mode 
+hi, it, is in vi insert mode
+it is the second line.
